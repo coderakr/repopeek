@@ -1,6 +1,6 @@
 {
   "name": "repopeek",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Beautiful GitHub repository information CLI built with Ink.",
   "type": "module",
   "bin": {
